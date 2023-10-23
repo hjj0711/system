@@ -1,0 +1,23 @@
+.system-description {
+    padding: 2rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    h1{
+        color: white;
+    }
+    .text-box {
+        background-color: azure;
+        padding: 1rem 1.8rem;
+        opacity: 0.7;
+        h2{
+            font-weight: bold;
+        }
+        p {
+            margin-left: 2rem;
+            margin-top: 1rem;
+            font-size: 1rem;
+        }
+    }
+
+}

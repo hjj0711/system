@@ -8,3 +8,10 @@
         'Noto Color Emoji';
     }
 }
+.footer{
+    display: flex;
+    flex-direction: row-reverse;
+    button{
+        margin: 0 0.8rem;
+    }
+}
